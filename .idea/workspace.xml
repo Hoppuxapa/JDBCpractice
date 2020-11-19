@@ -1,0 +1,201 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="9d09c47e-cf03-415b-8797-c3a8e92dc1a3" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="FxmlFile" />
+        <option value="Class" />
+        <option value="Interface" />
+        <option value="Enum" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="G:\IntelliJ IDEA 2020.2\plugins\maven\lib\maven3" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1jpcPOobITMRKHecoynewpTJzOT" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="postgresql&#10;mongo" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logger-lecture-master" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="show.migrate.to.gradle.popup" value="false" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.kravchuk.jdbc.config" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Main">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.kravchuk.jdbc.Main" />
+      <module name="jdbc_practice" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.kravchuk.jdbc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DML.sql" type="DatabaseScript" editBeforeRun="true" temporary="true" nameIsGenerated="true">
+      <script-file value="$PROJECT_DIR$/DML.sql" />
+      <script-mode>FILE</script-mode>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9d09c47e-cf03-415b-8797-c3a8e92dc1a3" name="Default Changelist" comment="" />
+      <created>1604504448912</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1604504448912</updated>
+      <workItem from="1604596287658" duration="1772000" />
+      <workItem from="1604598084843" duration="1792000" />
+      <workItem from="1604599961547" duration="1791000" />
+      <workItem from="1604601926594" duration="324000" />
+      <workItem from="1604603871557" duration="2108000" />
+      <workItem from="1604654527129" duration="1797000" />
+      <workItem from="1604656377397" duration="693000" />
+      <workItem from="1604915651464" duration="1118000" />
+      <workItem from="1605016909730" duration="1782000" />
+      <workItem from="1605022276083" duration="1218000" />
+      <workItem from="1605183520047" duration="53000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="495" y="100" key="#Main" timestamp="1605541033805">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="495" y="100" key="#Main/0.0.1536.864@0.0.1536.864" timestamp="1605541033805" />
+    <state x="256" y="288" key="#SQL_Resolution_Scopes" timestamp="1604601405454">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="256" y="288" key="#SQL_Resolution_Scopes/0.0.1536.864@0.0.1536.864" timestamp="1604601405454" />
+    <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1605018029114">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="90" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1536.864@0.0.1536.864" timestamp="1605018029114" />
+    <state x="574" y="125" key="#com.intellij.ide.util.MemberChooser" timestamp="1604600608341">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="574" y="125" key="#com.intellij.ide.util.MemberChooser/0.0.1536.864@0.0.1536.864" timestamp="1604600608341" />
+    <state x="499" y="361" key="DBNavigator.CreateRenameSessionDialog" timestamp="1604596158096">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="361" key="DBNavigator.CreateRenameSessionDialog/0.0.1536.864@0.0.1536.864" timestamp="1604596158096" />
+    <state x="299" y="90" width="1150" height="684" key="DBNavigator.ProjectSettingsDialog" timestamp="1604596124542">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="90" width="1150" height="684" key="DBNavigator.ProjectSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1604596124542" />
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1605698660435">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605698660435" />
+    <state width="1478" height="336" key="GridCell.Tab.0.bottom" timestamp="1605543809761">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="336" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1605543809761" />
+    <state width="1478" height="336" key="GridCell.Tab.0.center" timestamp="1605543809760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="336" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1605543809760" />
+    <state width="1478" height="336" key="GridCell.Tab.0.left" timestamp="1605543809760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="336" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1605543809760" />
+    <state width="1478" height="336" key="GridCell.Tab.0.right" timestamp="1605543809760">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="1478" height="336" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605543809760" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1604598019649">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1604598019649" />
+    <state x="249" y="9" key="SettingsEditor" timestamp="1604597705822">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="249" y="9" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604597705822" />
+    <state x="668" y="292" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1604603959733">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="668" y="292" key="com.intellij.database.actions.DdlActions$CreateObject$1/0.0.1536.864@0.0.1536.864" timestamp="1604603959733" />
+    <state x="647" y="298" width="312" height="267" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1" timestamp="1604600484469">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="647" y="298" width="312" height="267" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1604600484469" />
+    <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1605698618635">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="259" key="com.intellij.ide.util.TipDialog/0.0.1536.864@0.0.1536.864" timestamp="1605698618635" />
+    <state x="499" y="190" key="extract.method.dialog" timestamp="1604596835631">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="499" y="190" key="extract.method.dialog/0.0.1536.864@0.0.1536.864" timestamp="1604596835631" />
+    <state x="209" y="93" key="new project wizard" timestamp="1605183570191">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="209" y="93" key="new project wizard/0.0.1536.864@0.0.1536.864" timestamp="1605183570191" />
+    <state x="477" y="66" key="refactoring.ChangeSignatureDialog" timestamp="1604600269277">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="477" y="66" key="refactoring.ChangeSignatureDialog/0.0.1536.864@0.0.1536.864" timestamp="1604600269277" />
+  </component>
+</project>

@@ -3,8 +3,21 @@
   <component name="AutoImportSettings">
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="9d09c47e-cf03-415b-8797-c3a8e92dc1a3" name="Default Changelist" comment="" />
+    <list default="true" id="9d09c47e-cf03-415b-8797-c3a8e92dc1a3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kravchuk/jdbc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kravchuk/jdbc/Main.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/kravchuk/jdbc/config/DataAccessObject.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/kravchuk/jdbc/config/DataAccessObject.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +33,9 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -28,6 +44,7 @@
     </option>
   </component>
   <component name="ProjectId" id="1jpcPOobITMRKHecoynewpTJzOT" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
@@ -37,7 +54,7 @@
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../logger-lecture-master" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
     <property name="node.js.detected.package.tslint" value="true" />
     <property name="node.js.path.for.package.eslint" value="project" />
@@ -80,19 +97,7 @@
       </list>
     </recent_temporary>
   </component>
-  <component name="ServiceViewManager">
-    <option name="viewStates">
-      <list>
-        <serviceView>
-          <treeState>
-            <expand />
-            <select />
-          </treeState>
-        </serviceView>
-      </list>
-    </option>
-  </component>
-  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="SvnConfiguration">
     <configuration />
   </component>
@@ -114,11 +119,25 @@
       <workItem from="1605016909730" duration="1782000" />
       <workItem from="1605022276083" duration="1218000" />
       <workItem from="1605183520047" duration="53000" />
+      <workItem from="1605784501952" duration="336000" />
+      <workItem from="1607877377839" duration="740000" />
+      <workItem from="1607880844092" duration="76000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="WindowStateProjectService">
     <state x="495" y="100" key="#Main" timestamp="1605541033805">
@@ -145,10 +164,14 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="299" y="90" width="1150" height="684" key="DBNavigator.ProjectSettingsDialog/0.0.1536.864@0.0.1536.864" timestamp="1604596124542" />
-    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1605698660435">
+    <state x="549" y="190" key="FileChooserDialogImpl" timestamp="1605784724413">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605698660435" />
+    <state x="549" y="190" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1605784724413" />
+    <state x="638" y="330" key="Github.ShareDialog" timestamp="1607880865916">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="638" y="330" key="Github.ShareDialog/0.0.1536.864@0.0.1536.864" timestamp="1607880865916" />
     <state width="1478" height="336" key="GridCell.Tab.0.bottom" timestamp="1605543809761">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -165,14 +188,18 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state width="1478" height="336" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1605543809760" />
-    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1604598019649">
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog" timestamp="1607877439542">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
-    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1604598019649" />
+    <state x="299" y="87" key="Maven.ArtifactSearchDialog/0.0.1536.864@0.0.1536.864" timestamp="1607877439542" />
     <state x="249" y="9" key="SettingsEditor" timestamp="1604597705822">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="249" y="9" key="SettingsEditor/0.0.1536.864@0.0.1536.864" timestamp="1604597705822" />
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2" timestamp="1607877451332">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="361" y="165" key="Vcs.Push.Dialog.v2/0.0.1536.864@0.0.1536.864" timestamp="1607877451332" />
     <state x="668" y="292" key="com.intellij.database.actions.DdlActions$CreateObject$1" timestamp="1604603959733">
       <screen x="0" y="0" width="1536" height="864" />
     </state>
@@ -181,6 +208,10 @@
       <screen x="0" y="0" width="1536" height="864" />
     </state>
     <state x="647" y="298" width="312" height="267" key="com.intellij.database.actions.DdlActions$DeleteProvider2$1/0.0.1536.864@0.0.1536.864" timestamp="1604600484469" />
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1605784837980">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="93" y="93" width="1350" height="678" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.0.1536.864@0.0.1536.864" timestamp="1605784837980" />
     <state x="477" y="259" key="com.intellij.ide.util.TipDialog" timestamp="1605698618635">
       <screen x="0" y="0" width="1536" height="864" />
     </state>

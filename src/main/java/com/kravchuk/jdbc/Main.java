@@ -25,7 +25,6 @@ public class Main {
 
         try {
             Class.forName(JDBC_DRIVER);
-            DriverManager.registerDriver(new org.postgresql.Driver());
             connection = DriverManager.getConnection(DATABASE_URL, USER, PASSWORD);
             CustomerDao dao = new CustomerDao(connection);
 
